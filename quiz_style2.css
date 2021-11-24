@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
+
+body {
+	font-family: 'Cairo', sans-serif;
+	background-image: url("https://cdna.artstation.com/p/assets/images/images/022/139/380/large/mathias-zamecki-artboard-sqaure-copy2.jpg?1574256832&dl=1");
+	background-repeat: no-repeat;
+	background-size: 5000px 5000px;
+}
+
+#button {
+	background-color: green;
+	padding: 15px 32px;
+}
+
+#button:hover {
+	background-color: orange;
+}
+
+#button:focus {
+	background-color: red;
+}
+
+.answers {
+	color: red;
+}
